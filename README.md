@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=G'day+mate!+👋;+Juan+here!;" />
 </h1>
 
-<h3 align="center">Automation enthusiast here! Nailed the basics of JavaScript and picked up a bit of genetic algorithms wisdom during my uni days (somewhere in my brain, I reckon). My heart's in the IT world, can't quite express it. Used to troubleshoot as a **Support Engineer** in an e-commerce gig, had a crack at backend engineering too...
+<h3 align="center">Automation enthusiast here! Nailed the basics of JavaScript and picked up a bit of genetic algorithms wisdom during my uni days (somewhere in my brain, I reckon). My heart's in the IT world, can't quite express it. Used to troubleshoot as a Support Engineer in an e-commerce gig, had a crack at backend engineering too...
   
   soaking up the sun in Adelaide, Australia. 🌏🇦🇺</h3>
 
